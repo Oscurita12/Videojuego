@@ -2,6 +2,7 @@
 
 .menu{
     background-color: rgba(0, 0, 0, 0.5);
+    transition: 1s;
 }
 
 #video {
@@ -85,4 +86,9 @@ h2 {
     margin-top: -100px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.menu2 {
+    background-color: rgba(242, 244, 244, 0.7);
+    transition: 2s;
 }
