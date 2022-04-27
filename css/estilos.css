@@ -85,7 +85,7 @@ h2 {
     content: "";
     position: absolute;
     margin-top: -100px;
-    margin-left: auto;
+    margin-left: 47%;
     margin-right: auto;
 }
 
@@ -100,4 +100,9 @@ h2 {
 
     a {
         color: #002345;
+    }
+
+    #formulario {
+        width: 50%;
+        margin: auto;
     }
